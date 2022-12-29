@@ -1,3 +1,6 @@
+Hi, I'm Avill
+An enthusiastic Programmer | Freelancer | Open Source lover
+
 # 💫 About Me:
 🌱 I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.<br>🔭 I’m currently working on some of my side projects :P<br>👯 I’m looking to collaborate on anything free and open source<br>💬 Ask me about Android and Flutter.<br>📫 How to reach me shashanksinghal02@gmail.com<br>⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
 
