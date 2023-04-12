@@ -2,7 +2,7 @@ Hi, I'm Avill
 An enthusiastic Programmer | Freelancer | Open Source lover
 
 # 💫 About Me:
-🌱 I’m currently working with Jetpack Compose and Kotlin Multiplatform Mobile.<br>🔭 I’m currently working on some of my side projects :P<br>👯 I’m looking to collaborate on anything free and open source<br>💬 Ask me about Android and Flutter.<br>📫 How to reach me avill.vg@gmail.com<br>⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
+🌱 I’m currently working with Jetpack Compose and Kotlin Multiplatform Mobile.<br>🔭 I’m currently working on some of my side projects :P<br>👯 I’m looking to collaborate on anything free and open source<br>💬 Ask me about C++ and Java.<br>📫 How to reach me avill.vg@gmail.com<br>⚡ Fun fact: I create funny videos on Tiktok and Youtube for Programming and English learners.
 
 
 ## 🌐 Socials:
